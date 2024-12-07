@@ -12,4 +12,4 @@
 ## Contact info
 - E-mail: joaovitordeaquino20@gmail.com
 - Phone: (55) 19 99707-2363
-- <a href="www.linkedin.com/in/joão-vítor-rodrigues-8a6320242" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- Linkedin: www.linkedin.com/in/joão-vítor-rodrigues-8a6320242
