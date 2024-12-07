@@ -14,7 +14,6 @@
 - Phone: (55) 19 99707-2363
 - Linkedin: www.linkedin.com/in/joão-vítor-rodrigues-8a6320242
 
-<div class="tenor-gif-embed" data-postid="23417500" data-share-method="host" data-aspect-ratio="1.00629" data-width="100%"><a href="https://tenor.com/view/soy-nerd-computer-typing-gif-23417500">Soy Nerd Sticker</a>from <a href="https://tenor.com/search/soy-stickers">Soy Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div>
 <a href="https://github.com/joaoRVA">
