@@ -1,4 +1,2 @@
-# Hi, there! I'm João Vítor Rodrigues 
-## Welcome to my GitHub profile👋
-
-
+# 👋 Hello! Welcome to my Github profile.
+## My name is João Vítor Rodrigues and my nickname is "joaoRVA"!
